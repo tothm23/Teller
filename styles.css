@@ -55,8 +55,18 @@ td {
   text-align: center;
 }
 
-th{
+th {
   color: white;
   background-color: gray;
   text-align: center;
+}
+
+a:link,
+a:visited,
+a:active {
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
 }

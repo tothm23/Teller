@@ -1,2 +1,3 @@
 # Teller
- This is a task for the IKT Projektmunka
+
+Ez egy feladat az IKT Projektmunkára
